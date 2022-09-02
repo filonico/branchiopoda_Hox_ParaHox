@@ -3,8 +3,6 @@
 
 In this repository you will find raw data and codes used for perform the analyses of *Hox* and *ParaHox* genes (HPHGs) in Branchiopoda.
 
-Paper: REFERENCE
-
 ## Infos
 - <code>01_HPHG_seqs</code> contains HPHG sequences from the species analysed in fasta format.
 - <code>02_HPHG_trees</code> contains HPHG ML phylogenetic trees as in **Fig. 1A** and **Fig. 3**.
