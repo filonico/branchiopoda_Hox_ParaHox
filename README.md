@@ -6,4 +6,6 @@ In this repository you will find raw data and codes used for perform the analyse
 ## Infos
 - <code>01_HPHG_seqs</code> contains HPHG sequences from the species analysed in fasta format.
 - <code>02_HPHG_trees</code> contains HPHG ML phylogenetic trees as in **Fig. 1A** and **Fig. 3**.
+- <code>03_HPHG_structure</code> contains data and R script to generate the raw version of **Fig. 1B**.
+- <code>04_HPHG_statistics</code> contains data and R script to generate the raw version of **Fig. 2**.
 - <code>scripts/</code> contains additional bash scripts that I wrote to manage HPHG analyses during my internship.
