@@ -121,7 +121,10 @@ lm.plot <- ggplot(correlation, aes(genome.size, cluster.length, label = row.name
 
 #------------------------------ASSEMBLE THE PANEL----------------------------------#
 
-ggarrange(intergenic.plot, intron.plot, cluster.plot, lm.plot,
+panel <- ggarrange(intergenic.plot, intron.plot, cluster.plot, lm.plot,
           ncol = 2,
           nrow = 2,
           labels = c("A", "B", "C", "D"))
+          
+ggsave("Figure_2.pdf", plot = panel, device = "pdf",
+       width = 11.69, height = 8.27, units = "in")
