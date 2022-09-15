@@ -1,0 +1,16 @@
+scaffold16|size736393	286477	286926	+	transcript_id "g1062.t1"; gene_id "g1062";	449
+scaffold16|size736393	288173	293580	+	transcript_id "g1062.t1"; gene_id "g1062";	5407
+scaffold16|size736393	421924	425102	+	transcript_id "g1065.t1"; gene_id "g1065";	3178
+scaffold16|size736393	425664	437400	+	transcript_id "g1065.t1"; gene_id "g1065";	11736
+scaffold16|size736393	501517	501612	+	transcript_id "g1067.t1"; gene_id "g1067";	95
+scaffold16|size736393	527005	530144	+	transcript_id "g1068.t1"; gene_id "g1068";	3139
+scaffold16|size736393	558701	560007	+	transcript_id "g1069.t1"; gene_id "g1069";	1306
+scaffold16|size736393	599051	600443	+	transcript_id "g1071.t1"; gene_id "g1071";	1392
+scaffold16|size736393	631441	632500	+	transcript_id "g1073.t1"; gene_id "g1073";	1059
+scaffold70|size346864	177280	188979	+	transcript_id "g2619.t1"; gene_id "g2619";	11699
+scaffold70|size346864	208554	215104	+	transcript_id "g2620.t1"; gene_id "g2620";	6550
+scaffold221|size101237	97826	97901	-	transcript_id "g7124.t1"; gene_id "g7124";	75
+scaffold221|size101237	98093	98216	-	transcript_id "g7124.t1"; gene_id "g7124";	123
+scaffold2|size2127231	198296	201300	-	intron_id 1	3004
+scaffold2|size2127231	196924	198149	-	intron_id 2	1225
+scaffold16|size736393	570275	579341	+	intron_id 1	9066
