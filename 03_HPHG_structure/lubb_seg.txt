@@ -1,0 +1,13 @@
+name	start	end	strand	fill
+Lubb_g12364.t1_lab	1	181	1	"#d24537"
+Lubb_g8547.t1_pb	191	371	1	"#dc7c33"
+Lubb_g3235.t1_hox3	381	561	1	"#9bdc33"
+Lubb_g13200.t1_dfd	571	751	-1	"#67dc00"
+Lubb_mir10	5946	6031	-1	"#5C5C5C"
+Lubb_g3227.t1_scr	6041	6221	-1	"#5cdc75"
+Lubb_g3887.t1_ftz	6231	6411	1	"#60d2de"
+Lubb_g2738.t1_antp	6421	6601	1	"#5085e1"
+Lubb_g3060.t1_ubx	6611	6791	-1	"#4842e3"
+Lubb_g2378.t1_abdA	6801	6981	-1	"#963be3"
+Lubb_g11468.t1_abdB	6991	7171	-1	"#d43cc0"
+Lubb_g5810.t1_cad	7181	7361	-1	"#8d8d8d"
