@@ -1,4 +1,10 @@
 ##gff-version 3
+scaffold2645|size11498	exonerate:protein2genome:local	gene	10452	11198	606	-	.	ID=nbis-gene-3
+scaffold2645|size11498	exonerate:protein2genome:local	similarity	10452	11198	606	-	.	ID=similarity-3;Parent=nbis-gene-3
+scaffold2645|size11498	exonerate:protein2genome:local	gene	10452	11198	.	-	.	ID=nbis-gene-6
+scaffold2645|size11498	exonerate:protein2genome:local	mRNA	10452	11198	.	-	.	ID=nbisL2-cds-3;Parent=nbis-gene-6
+scaffold2645|size11498	exonerate:protein2genome:local	exon	10452	11198	.	-	.	ID=exon-6;Parent=nbisL2-cds-3
+scaffold2645|size11498	exonerate:protein2genome:local	cds	10452	11198	.	-	.	ID=nbis-cds-6;Parent=nbisL2-cds-3
 scaffold1965|size15449	AUGUSTUS	gene	6245	7857	0.99	+	.	ID=gene-9
 scaffold1965|size15449	AUGUSTUS	transcript	6245	7857	0.99	+	.	ID=transcript-9;Parent=gene-9
 scaffold1965|size15449	AUGUSTUS	gene	6245	7857	1	+	.	ID=g8243;gene_id=g8243;transcript_id=g8243.t1
@@ -13,6 +19,18 @@ scaffold1965|size15449	AUGUSTUS	intron	6495	6837	1	+	.	ID=intron-9;Parent=g8243.
 scaffold1965|size15449	AUGUSTUS	intron	7032	7107	0.99	+	.	ID=intron-10;Parent=g8243.t1;gene_id=g8243;transcript_id=g8243.t1
 scaffold1965|size15449	AUGUSTUS	start_codon	6245	6247	.	+	0	ID=start_codon-9;Parent=g8243.t1;gene_id=g8243;transcript_id=g8243.t1
 scaffold1965|size15449	AUGUSTUS	stop_codon	7855	7857	.	+	0	ID=stop_codon-9;Parent=g8243.t1;gene_id=g8243;transcript_id=g8243.t1
+scaffold1336|size21497	exonerate:protein2genome:local	gene	3	5810	1894	-	.	ID=nbis-gene-2
+scaffold1336|size21497	exonerate:protein2genome:local	similarity	3	5810	1894	-	.	ID=similarity-2;Parent=nbis-gene-2
+scaffold1336|size21497	exonerate:protein2genome:local	gene	3	5810	.	-	.	ID=nbis-gene-5
+scaffold1336|size21497	exonerate:protein2genome:local	mRNA	3	5810	.	-	.	ID=nbisL2-cds-2;Parent=nbis-gene-5
+scaffold1336|size21497	exonerate:protein2genome:local	exon	3	143	.	-	.	ID=exon-5;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	exon	1497	1642	.	-	.	ID=exon-4;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	exon	4886	5810	.	-	.	ID=exon-3;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	cds	3	143	.	-	.	ID=nbis-cds-5;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	cds	1497	1642	.	-	.	ID=nbis-cds-4;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	cds	4886	5810	.	-	.	ID=nbis-cds-3;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	intron	144	1496	.	-	.	ID=nbis-intron-3;Parent=nbisL2-cds-2
+scaffold1336|size21497	exonerate:protein2genome:local	intron	1643	4885	.	-	.	ID=nbis-intron-2;Parent=nbisL2-cds-2
 scaffold983|size26978	AUGUSTUS	gene	8258	17419	0.51	+	.	ID=gene-8
 scaffold983|size26978	AUGUSTUS	transcript	8258	17419	0.51	+	.	ID=transcript-8;Parent=gene-8
 scaffold983|size26978	AUGUSTUS	gene	8258	17419	0.51	+	.	ID=g5763;gene_id=g5763;transcript_id=g5763.t1
@@ -24,6 +42,15 @@ scaffold983|size26978	AUGUSTUS	CDS	16950	17419	1	+	2	ID=cds-16;Parent=g5763.t1;g
 scaffold983|size26978	AUGUSTUS	intron	9360	16949	0.74	+	.	ID=intron-8;Parent=g5763.t1;gene_id=g5763;transcript_id=g5763.t1
 scaffold983|size26978	AUGUSTUS	start_codon	8258	8260	.	+	0	ID=start_codon-8;Parent=g5763.t1;gene_id=g5763;transcript_id=g5763.t1
 scaffold983|size26978	AUGUSTUS	stop_codon	17417	17419	.	+	0	ID=stop_codon-8;Parent=g5763.t1;gene_id=g5763;transcript_id=g5763.t1
+scaffold263|size54903	exonerate:protein2genome:local	gene	12622	19428	2305	-	.	ID=nbis-gene-1
+scaffold263|size54903	exonerate:protein2genome:local	similarity	12622	19428	2305	-	.	ID=similarity-1;Parent=nbis-gene-1
+scaffold263|size54903	exonerate:protein2genome:local	gene	12622	19428	.	-	.	ID=nbis-gene-4
+scaffold263|size54903	exonerate:protein2genome:local	mRNA	12622	19428	.	-	.	ID=nbisL2-cds-1;Parent=nbis-gene-4
+scaffold263|size54903	exonerate:protein2genome:local	exon	12622	12953	.	-	.	ID=exon-2;Parent=nbisL2-cds-1
+scaffold263|size54903	exonerate:protein2genome:local	exon	18120	19428	.	-	.	ID=exon-1;Parent=nbisL2-cds-1
+scaffold263|size54903	exonerate:protein2genome:local	cds	12622	12953	.	-	.	ID=nbis-cds-2;Parent=nbisL2-cds-1
+scaffold263|size54903	exonerate:protein2genome:local	cds	18120	19428	.	-	.	ID=nbis-cds-1;Parent=nbisL2-cds-1
+scaffold263|size54903	exonerate:protein2genome:local	intron	12954	18119	.	-	.	ID=nbis-intron-1;Parent=nbisL2-cds-1
 scaffold1|size338677	AUGUSTUS	gene	124909	136702	0.75	+	.	ID=gene-1
 scaffold1|size338677	AUGUSTUS	transcript	124909	136702	0.75	+	.	ID=transcript-1;Parent=gene-1
 scaffold1|size338677	AUGUSTUS	gene	124909	136702	0.76	+	.	ID=g723;gene_id=g723;transcript_id=g723.t1
