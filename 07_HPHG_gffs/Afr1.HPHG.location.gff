@@ -1,16 +1,4 @@
 ##gff-version 3
-#Command line: [exonerate --maxintron 40000 --model c2g --showvulgar no --showalignment no --showquerygff no --showtargetgff yes --bestn 3 Afr1.HPHG.fna Afr1.genomic.fa]
-#Hostname: [server.centos7]
-# --- START OF GFF DUMP ---
-#
-#
-##source-version exonerate:coding2genome 2.4.0
-##date 2022-07-29
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
 scaffold4664_size59528	exonerate:coding2genome	gene	3486	11542	1380	-	.	ID=gene-2;gene_id=0;gene_orientation=+;identity=100.00;sequence=Afra|07949;similarity=100.00
 scaffold4664_size59528	exonerate:coding2genome	similarity	3486	11542	1380	-	.	ID=similarity-2;Parent=gene-2;align=11543,3,96,11146,102,108,8029,213,144,3975,357,489;query=Afra|07949;alignment_id=0
 scaffold4664_size59528	exonerate:coding2genome	gene	3486	11542	.	-	.	ID=nbis-gene-5
