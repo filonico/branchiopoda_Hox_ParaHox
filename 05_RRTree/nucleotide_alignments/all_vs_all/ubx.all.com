@@ -13,9 +13,9 @@ Lart_13_ubx: 2
 Lcou_g101.t1_ubx: 2
 Ldah_g11919.t1_ubx: 1
 Lubb_g3060.t1_ubx: 2
-Tita_g726.t1_ubx: 2
+Tces_g726.t1_ubx: 2
 Tlon_g1067.t1_ubx: 2
-Tusa_g3772.t1_ubx: 2
+Tcit_g3772.t1_ubx: 2
 Afr1_13756_ubx: 3
 
 #lineage names
