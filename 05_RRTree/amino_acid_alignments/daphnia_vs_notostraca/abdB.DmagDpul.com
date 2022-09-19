@@ -13,8 +13,8 @@ Lubb_g11468.t1_abdB: 2
 Tlon_g1062.t1_abdB: 2
 Lart_02_abdB: 2
 Lcou_02_abdB: 2
-Tita_02_abdB: 2
-Tusa_02_abdB: 2
+Tces_02_abdB: 2
+Tcit_02_abdB: 2
 
 #lineage names
 outgroup: hexa
