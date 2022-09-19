@@ -13,9 +13,9 @@ Lapu_g210.t1_ftz: 2
 Ldah_g14037.t1_ftz: 1
 Ldah_g1519.t1_ftz: 1
 Lubb_g3887.t1_ftz: 2
-Tita_g728.t1_ftz: 2
+Tces_g728.t1_ftz: 2
 Tlon_g1069.t1_ftz: 2
-Tusa_g802.t1_ftz: 2
+Tcit_g802.t1_ftz: 2
 Lart_08_ftz: 2
 Lcou_08_ftz: 2
 Afr1_17267_ftz: 3

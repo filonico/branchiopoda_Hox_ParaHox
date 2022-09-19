@@ -14,8 +14,8 @@ Lart_g6847.t1_cad: 2
 Lcou_g3926.t1_cad: 2
 Ldah_g16475.t1_cad: 1
 Lubb_g5810.t1_cad: 2
-Tusa_g3522.t1_cad: 2
-Tita_04_cad: 2
+Tcit_g3522.t1_cad: 2
+Tces_04_cad: 2
 Tlon_04_cad: 2
 Afr1_07949_cad: 3
 
