@@ -13,7 +13,7 @@ Etex_C0007.g27.t2_dfd: 1
 Fcan_XP.021951082.1_dfd: 0
 Lapu_g212.t1_dfd: 2
 Ldah_g6648.t1_dfd: 1 
-Lubb_g10986.t1_dfd: 2
+Lubb_g13200.t1: 2
 Tita_g730.t1_dfd: 2
 Tlon_g1071.t1_dfd: 2
 Tusa_g806.t1_dfd: 2
