@@ -9,9 +9,9 @@ Etex_C0007.g29.t1_hox3: 1
 Fcan_XP.021951314.1_hox3: 0
 Lapu_g213.t1_hox3: 2
 Lubb_g3235.t1_hox3: 2
-Tita_g731.t1_hox3: 2
+Tces_g731.t1_hox3: 2
 Tlon_g1073.t1_hox3: 2
-Tusa_g808.t1_hox3: 2
+Tcit_g808.t1_hox3: 2
 Lart_09_hox3: 2
 Lcou_09_hox3: 2
 

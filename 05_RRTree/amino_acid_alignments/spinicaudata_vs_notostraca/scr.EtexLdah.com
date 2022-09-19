@@ -10,11 +10,11 @@ Fcan_XP.021951280.1_scr: 0
 Lapu_g211.t1_scr: 2
 Ldah_g6649.t1_scr: 1
 Lubb_g3227.t1_scr: 2
-Tita_g729.t1_scr: 2
+Tces_g729.t1_scr: 2
 Lart_12_scr: 2
 Lcou_12_scr: 2
 Tlon_12_scr: 2
-Tusa_12_scr: 2
+Tcit_12_scr: 2
 
 #lineage names
 outgroup: hexa

@@ -10,9 +10,9 @@ Fcan_XP.035706584.1_abdA: 0
 Lapu_g207.t1_abdA: 2
 Ldah_g3248.t1_abdA: 1
 Lubb_g2378.t1_abdA: 2
-Tita_g723.t1_abdA: 2
+Tces_g723.t1_abdA: 2
 Tlon_g1065.t1_abdA: 2
-Tusa_g509.t1_abdA: 2
+Tcit_g509.t1_abdA: 2
 Lart_01_abdA: 2
 Lcou_01_abdA: 2
 
