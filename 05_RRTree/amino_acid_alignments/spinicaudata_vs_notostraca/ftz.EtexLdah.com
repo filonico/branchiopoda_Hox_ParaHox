@@ -1,12 +1,12 @@
 # automatically generated command file for RRTree
 
-file of aligned sequences: ftz.Etex.g24.t1.aligned.nogaps.EtexLdah.faa
+file of aligned sequences: ftz.aligned.EtexLdah.nogaps.faa
 format: fasta
 lineages: 2
 
 #lineage affectation of sequences
 Fcan_XP.021951322.2_ftz: 0
-Etex_C0007.g24.t1_antp: 1
+Etex_C0007.g24.t1_ftz: 1
 Lapu_g210.t1_ftz: 2
 Ldah_g14037.t1_ftz: 1
 Ldah_g1519.t1_ftz: 1
