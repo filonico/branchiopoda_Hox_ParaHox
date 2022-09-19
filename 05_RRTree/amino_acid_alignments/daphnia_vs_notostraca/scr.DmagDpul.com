@@ -9,7 +9,7 @@ Dmag_XP.032785567.1_scr: 1
 Dpul_EFX86806.1_scr: 1
 Fcan_XP.021951280.1_scr: 0
 Lapu_g211.t1_scr: 2
-Lubb_g11160.t1_scr: 2
+Lubb_g3227.t1_scr: 2
 Tita_g729.t1_scr: 2
 Lart_12_scr: 2
 Lcou_12_scr: 2

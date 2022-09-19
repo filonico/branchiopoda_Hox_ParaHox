@@ -11,7 +11,7 @@ Fcan_XP.035705838.1_cad: 0
 Lapu_g7498.t1_cad: 2
 Lart_g6847.t1_cad: 2
 Lcou_g3926.t1_cad: 2
-Lubb_g6823.t1_cad: 2
+Lubb_g5810.t1_cad: 2
 Tusa_g3522.t1_cad: 2
 Tita_04_cad: 2
 Tlon_04_cad: 2

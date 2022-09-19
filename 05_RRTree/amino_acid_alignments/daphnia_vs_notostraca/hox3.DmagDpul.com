@@ -9,7 +9,7 @@ Dmag_XP.032785561.1_hox3: 1
 Dpul_EFX86809.1_hox3: 1
 Fcan_XP.021951314.1_hox3: 0
 Lapu_g213.t1_hox3: 2
-Lubb_g13145.t1_hox3: 2
+Lubb_g3235.t1_hox3: 2
 Tita_g731.t1_hox3: 2
 Tlon_g1073.t1_hox3: 2
 Tusa_g808.t1_hox3: 2

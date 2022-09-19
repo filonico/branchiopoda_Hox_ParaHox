@@ -9,7 +9,7 @@ Dmag_XP.032785543.1_abdA: 1
 Dpul_EFX86800.1_abdA: 1
 Fcan_XP.035706584.1_abdA: 0
 Lapu_g207.t1_abdA: 2
-Lubb_g13869.t1_abdA: 2
+Lubb_g2378.t1_abdA: 2
 Tita_g723.t1_abdA: 2
 Tlon_g1065.t1_abdA: 2
 Tusa_g509.t1_abdA: 2

@@ -11,7 +11,7 @@ Fcan_XP.021951054.1_ubx: 0
 Lapu_g208.t1_ubx: 2
 Lart_13_ubx: 2
 Lcou_g101.t1_ubx: 2
-Lubb_g15635.t1_ubx: 2
+Lubb_g3060.t1_ubx: 2
 Tita_g726.t1_ubx: 2
 Tlon_g1067.t1_ubx: 2
 Tusa_g3772.t1_ubx: 2

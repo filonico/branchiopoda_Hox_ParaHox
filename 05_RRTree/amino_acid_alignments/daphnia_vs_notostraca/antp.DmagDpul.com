@@ -9,7 +9,7 @@ Dmag_XP.032785563.1_antp: 1
 Dpul_EFX86804.1_antp: 1
 Fcan_XP.021952588.1_antp: 0
 Lapu_g209.t1_antp: 2
-Lubb_g13749.t1_antp: 2
+Lubb_g2738.t1_antp: 2
 Tita_g727.t1_antp: 2
 Tlon_g1068.t1_antp: 2
 Tusa_g801.t1_antp: 2
