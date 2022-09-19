@@ -10,9 +10,9 @@ Dpul_EFX86813.1_lab: 1
 Fcan_XP.021952045.1_lab: 0
 Lapu_g3174.t1_lab: 2
 Lubb_g12364.t1_lab: 2
-Tita_g5763.t1_lab: 2
+Tces_g5763.t1_lab: 2
 Tlon_g2620.t1_lab: 2
-Tusa_g7702.t1_lab: 2
+Tcit_g7702.t1_lab: 2
 Lart_10_lab: 2
 Lcou_10_lab: 2
 
