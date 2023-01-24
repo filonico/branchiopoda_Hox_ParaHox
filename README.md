@@ -1,11 +1,15 @@
 # Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps — Data and code
-**[Filippo Nicolini](https://linktr.ee/filo.nico/)**, **[Jacopo Martelossi](https://github.com/jacopoM28/)**, **[Giobbe Forni](https://github.com/for-giobbe/)**, **Castrense Savojardo**, **Barbara Mantovani**, **[Andrea Luchetti](https://github.com/andluche)**
 
 In this repository you will find raw data and codes used to perform the analyses of *Hox* and *ParaHox* genes (HPHGs) in Branchiopoda which are found in:
 
-Nicolini F, Martelossi J, Forni G, Savojardo C, Mantovani B and Luchetti A (2023). [Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps](https://www.frontiersin.org/articles/10.3389/fevo.2023.1046960/full). *Front. Ecol. Evol.* 11:1046960.
+> **[Nicolini F](https://linktr.ee/filo.nico/), [Martelossi J](https://github.com/jacopoM28/), [Forni G](https://github.com/for-giobbe/), Savojardo C, Mantovani B and [Luchetti A](https://github.com/andluche)** (2023). [Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps](https://www.frontiersin.org/articles/10.3389/fevo.2023.1046960/full). *Front. Ecol. Evol.* 11:1046960.
 
-![Immagine 2022-09-02 173353](https://user-images.githubusercontent.com/72141380/188184557-dcbc7ce9-8222-4362-9dca-87f2d16e1952.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72141380/214382967-94b045a6-419a-44e4-8703-ec5b8bbc208f.png", width=800>
+</p>
+
+
+Feel also free to visit our group GitHub page **[CompBio-BO](https://github.com/CompBio-BO)**.
 
 ## Infos
 - <code>01_HPHG_seqs/</code> contains HPHG sequences in fasta format and also data and R script to generate the raw version of **Suppl. Fig. S2**.
