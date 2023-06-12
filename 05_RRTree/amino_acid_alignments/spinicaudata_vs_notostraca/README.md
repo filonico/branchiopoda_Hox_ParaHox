@@ -1,3 +1,3 @@
 # README
-  - <code>[gene].EtexLdah.com</code> is the RRTree command file.
-  - <code>[gene].aligned.EtexLdah.nogaps.faa</code> is the amino acid alignment necessary to run the RRTree analysis.
+  - <code>*.com</code> is the [RRTree](https://github.com/mrrlab/RRTree) command file.
+  - <code>*.faa</code> is the amino acid alignment necessary to run the [RRTree](https://github.com/mrrlab/RRTree) analysis.
