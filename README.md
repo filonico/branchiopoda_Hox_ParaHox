@@ -1,6 +1,6 @@
 # Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps — Data and code
 
-In this repository you will find raw data and codes used to perform the analyses of *Hox* and *ParaHox* genes (HPHGs) in Branchiopoda which are found in:
+In this repository you will find raw data and codes used to perform the analyses of *Hox* and *ParaHox* genes (HPHGs) in Branchiopoda which support the study:
 
 > **[Nicolini F](https://linktr.ee/filo.nico/), [Martelossi J](https://github.com/jacopoM28/), [Forni G](https://github.com/for-giobbe/), Savojardo C, Mantovani B and [Luchetti A](https://github.com/andluche)** (2023). [Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps](https://www.frontiersin.org/articles/10.3389/fevo.2023.1046960/full). *Front. Ecol. Evol.* 11:1046960.
 
