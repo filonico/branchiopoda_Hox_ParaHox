@@ -19,4 +19,3 @@ Feel also free to visit our group GitHub page **[CompBio-BO](https://github.com/
 - <code>05_RRTree/</code> contains data and command files to perform the RRTree analysis.
 - <code>06_HyPhy/</code> contains data and command files to perform the HyPhy analysis.
 - <code>07_HPHG_gffs/</code> contains annotation files of HPHG in branchiopods.
-- <code>scripts/</code> contains additional bash scripts that I wrote to manage HPHG analyses during my internship.
